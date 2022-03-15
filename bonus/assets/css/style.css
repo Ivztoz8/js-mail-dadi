@@ -1,3 +1,10 @@
+/* Tag's Mod */ 
 body{
     background-color: lightsalmon;
+}
+
+/* Utility */
+
+.myc_bordeRad{
+    border-radius: 10px;
 }
