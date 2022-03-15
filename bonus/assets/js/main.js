@@ -25,6 +25,6 @@ for (let i2 = 5; i2 < quantitArray; i2++){
     arrayPotter2.push(arrayNumRandom);
     arrayPotter2reverse = arrayPotter2.reverse();
     arrayDisplay2.innerHTML = `<div class="col"> Il contenuto dell'Array è: ${(arrayPotter2)} </div>`;
-arrayDisplay3.innerHTML = `<div class="col"> Gli ultimi 3 numeri dell'Array sono: ${(arrayPotter2reverse[0])}, ${(arrayPotter2reverse[1])}, ${(arrayPotter2reverse[2])}</div>`;
+    arrayDisplay3.innerHTML = `<div class="col"> Gli ultimi 3 numeri dell'Array sono: ${(arrayPotter2reverse[0])}, ${(arrayPotter2reverse[1])}, ${(arrayPotter2reverse[2])}</div>`;
 }
 
